@@ -1,0 +1,31 @@
+[{
+  "id": 1,
+  "artist": "Sons of Kernet",
+  "songTitle": "My Queen is Ada Eastman",
+  "duration": "6:40"
+},
+{
+  "id": 2,
+  "artist": "Arctic Monkeys",
+  "songTitle": "Fluorescent Adolescent",
+  "duration": "3:03"
+},
+{
+  "id": 3,
+  "artist": "United Vibrations",
+  "songTitle": "Rocksteady",
+  "duration": "3:57"
+},
+{
+  "id": 4,
+  "artist": "Earth, Wind & Fire",
+  "songTitle": "September",
+  "duration": "3:35"
+},
+{
+  "id": 5,
+  "artist": "Queens of the Stone Age",
+  "songTitle": "Feet Don't Fail me",
+  "duration": "5:41"
+}
+]
